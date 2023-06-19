@@ -8,6 +8,10 @@ This repo stores the website for [brickmmo.com](https://brickmmo.com).
 - https://tailwindcss.com/
 - https://getbootstrap.com/
 
+- https://html5up.net/tessellate
+- https://html5up.net/photon
+- https://html5up.net/dopetrope
+
 ***
 
 ## Repository Resources
