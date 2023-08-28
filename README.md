@@ -20,7 +20,7 @@ This repo stores the website for [brickmmo.com](https://brickmmo.com).
 
 ## Project Stack
 
-This project uses [React]() and [MUI].
+This project uses [React](https://react.dev/) and [MUI](https://mui.com/).
 
 <img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60">
 
