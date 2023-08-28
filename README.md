@@ -1,4 +1,4 @@
-# BrickMMO Website
+# Website
 
 This repo stores the website for [brickmmo.com](https://brickmmo.com).
 
