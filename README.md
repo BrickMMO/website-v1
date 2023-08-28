@@ -16,7 +16,15 @@ This repo stores the website for [brickmmo.com](https://brickmmo.com).
 - https://html5up.net/photon
 - https://html5up.net/dopetrope
 
-***
+---
+
+## Project Stack
+
+This project uses [React]() and [MUI]*(.
+
+<img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60">
+
+---
 
 ## Repository Resources
 
