@@ -48,7 +48,7 @@ export default function App() {
       if (route.route) {
         if (route.protected) {
           return (
-            <Route key={route.key} element={<ProtectedRoute />}>
+            <Route key={route.key}>
               <Route path={route.route} element={route.component} />
             </Route>
           );
