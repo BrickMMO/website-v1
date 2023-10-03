@@ -2,25 +2,8 @@
 
 This repo stores the website for [brickmmo.com](https://brickmmo.com).
 
-## Website Inspiration
-
-- https://m3.material.io/
-- https://firebase.google.com/
-- https://mui.com/
-- https://tailwindcss.com/
-- https://getbootstrap.com/
-
-## Website Templates
-
-- https://html5up.net/tessellate
-- https://html5up.net/photon
-- https://html5up.net/dopetrope
-
-## Material Kit 2
-
-- https://react-material-kit.appseed-srv1.com/presentation
-- https://github.com/app-generator/react-material-kit/tree/master
-- https://www.creative-tim.com/product/material-kit-react
+> **Warning**  
+> This repo has been updated to [website-v2](https://github.com/BrickMMO/website-v2)
 
 ---
 
