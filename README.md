@@ -1,4 +1,4 @@
-# Website
+# Website (depricated)
 
 This repo stores the website for [brickmmo.com](https://brickmmo.com).
 
